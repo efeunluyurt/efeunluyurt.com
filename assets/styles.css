@@ -11,11 +11,10 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #0c1015;
     display:flex;
     justify-content: center;
     align-items: center;
-    animation: bgcolor 5s infinite;
+    animation: bgcolor 10s infinite;
 }
 .loader {
     display: inline-block;
